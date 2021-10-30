@@ -139,22 +139,14 @@
     <v-dialog v-model="Dialog" max-width="700">
       <v-card shaped>
         <v-flex pl-5 pr-2 pt-3 class="headline"
-          >VuetiForm
+          >GENFORM
           <v-btn
             icon
-            href="https://github.com/MuhaddiMu/VuetiForm"
+            href="https://github.com/Ashishkubehera/VuetiForm"
             target="_blank"
             rel="noopener noreferrer"
             ><v-icon>mdi-github</v-icon></v-btn
           >
-          <v-btn
-            icon
-            href="https://twitter.com/intent/tweet?text=I just created an astonishing Form with Vuetify Form Generator by @MuhaddiMu. You can create yours at https://git.io/JeW0x 🎉&hashtags=Vue,Vuetify&related=MuhaddiMu"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <v-icon>mdi-twitter</v-icon>
-          </v-btn>
           <v-btn
             @click="CopyToClipboard"
             class="float-right"
