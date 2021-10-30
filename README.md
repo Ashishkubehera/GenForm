@@ -1,6 +1,6 @@
 
 ## Setup on Local Environment 💻
-- Clone the repository `git clone https://github.com/MuhaddiMu/VuetiForm.git`<br />
+- Clone the repository `git clone https://github.com/Ashishkubehera/VuetiForm.git`<br />
 - Install node modules `npm install` or `yarn install`<br />
 - Serve `npm run serve`
 
